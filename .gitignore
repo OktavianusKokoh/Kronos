@@ -77,3 +77,6 @@ tmp/
 
 # Claude Code worker worktrees
 .claude/worktrees/
+
+# Verify tool runtime artifacts
+verification/out/
